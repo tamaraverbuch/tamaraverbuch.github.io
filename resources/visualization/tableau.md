@@ -4,7 +4,7 @@ Tableau is a powerful, industry-standard data visualization tool used for creati
 
 ## Learning Resources
 - [Tableau Documentation](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
-- [Getting Started with Tableau - YouTube](https://www.youtube.com/watch?v=GdQruTkPmks)
+- [Getting Started with Tableau - YouTube](https://www.youtube.com/watch?v=6xv1KvCMF1Q)
 
 ⬅️ [Back to Visualization & Dashboarding Overview](../../README.md#-visualization--dashboarding)
 
