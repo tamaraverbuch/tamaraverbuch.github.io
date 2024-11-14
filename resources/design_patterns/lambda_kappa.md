@@ -4,7 +4,7 @@ Lambda and Kappa architectures are design patterns for processing large-scale da
 
 ## Learning Resources
 - [Lambda Architecture Overview](https://martinfowler.com/articles/lambda-architecture.html)
-- [Lambda vs Kappa Architectures - YouTube](https://www.youtube.com/watch?v=hY3jD6iwgI4)
+- [Lambda vs Kappa Architectures - YouTube](https://www.youtube.com/watch?v=waDJcSCXz_Y)
 
 ⬅️ [Back to Common Design Patterns Overview](../../README.md#-common-design-patterns)
 
