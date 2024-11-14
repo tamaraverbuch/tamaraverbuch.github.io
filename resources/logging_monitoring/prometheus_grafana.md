@@ -5,7 +5,7 @@ Prometheus and Grafana are open-source tools for monitoring and alerting systems
 ## Learning Resources
 - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
-- [Monitoring with Prometheus & Grafana - YouTube](https://www.youtube.com/watch?v=co3f8HcyIZs)
+- [Monitoring with Prometheus & Grafana - YouTube](https://www.youtube.com/watch?v=9TJx7QTrTyo)
 
 ⬅️ [Back to Logging & Monitoring Overview](../../README.md#-logging--monitoring)
 
