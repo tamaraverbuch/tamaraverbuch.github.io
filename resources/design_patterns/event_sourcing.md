@@ -4,7 +4,7 @@ Event Sourcing is a design pattern where changes to application state are stored
 
 ## Learning Resources
 - [Event Sourcing Explained](https://martinfowler.com/eaaDev/EventSourcing.html)
-- [Introduction to Event Sourcing - YouTube](https://www.youtube.com/watch?v=GzrY1jMsSOk)
+- [Introduction to Event Sourcing - YouTube](https://www.youtube.com/watch?v=yFjzGRb8NOk)
 
 ⬅️ [Back to Common Design Patterns Overview](../../README.md#-common-design-patterns)
 
