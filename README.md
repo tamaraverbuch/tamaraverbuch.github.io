@@ -9,7 +9,6 @@ This repository provides resources to learn data engineering, focusing on key to
 - [Big Data Technologies](#big-data-technologies)
 - [Data Formats](#data-formats)
 - [R Programming](#r-programming)
-- [Drones Information](#drones-information)
 
 ---
 
