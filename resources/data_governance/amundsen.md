@@ -4,7 +4,7 @@ Amundsen is an open-source data discovery and metadata engine designed to improv
 
 ## Learning Resources
 - [Amundsen Documentation](https://www.amundsen.io/amundsen/)
-- [Getting Started with Amundsen - YouTube](https://www.youtube.com/watch?v=PS5eP1yT_Hg)
+- [Getting Started with Amundsen - YouTube](https://www.youtube.com/watch?v=m-mL00FkWd0&t=6s)
 
 ⬅️ [Back to Data Governance & Lineage Overview](../../README.md#-data-governance--lineage)
 
