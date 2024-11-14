@@ -1,8 +1,10 @@
 # 🎉 My Awesome Data Engineering Resources
 
-This repository provides resources to learn data engineering, focusing on key tools, languages, and frameworks. It includes topics on data pipelines, storage, transformation, querying, governance, security, and more, organized to support both beginner and intermediate learners in data engineering.
+Hey! I'm a third-year computer science student exploring data engineering, algorithms, and dipping my toes into deep learning. I’m building this GitHub repo to share resources that make data engineering a bit easier to navigate, learn, and even enjoy! 
 
-**About This Repository**: This collection of resources serves as a structured guide to learning data engineering and foundational concepts. Ideal for students and professionals who want to build a strong technical base, this repository is regularly updated with links to relevant courses, articles, and documentation.
+This repository covers essential tools, languages, and frameworks you’ll need for working with data pipelines, storage, transformation, querying, governance, security, and more. It’s organized to help both beginners and those with some experience level up their data engineering skills. I hope it becomes a handy reference for anyone eager to learn!
+
+**About This Repository**: This is a structured collection of resources aimed at helping you build a solid foundation in data engineering. Whether you’re a student or a professional looking to expand your knowledge, this repo includes helpful links to courses, articles, and documentation. I’ll be updating it regularly, so stay tuned for new resources!
 
 ---
 
