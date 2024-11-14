@@ -7,14 +7,14 @@ This repository provides resources to learn data engineering, focusing on key to
 ---
 
 ## 📚 Table of Contents
-- [🚀 Kafka](#kafka)
-- [🐍 Python for Data Engineering](#python-for-data-engineering)
-- [☕ Java Fundamentals and OOP](#java-fundamentals-and-oop)
-- [📊 Big Data Technologies](#big-data-technologies)
-- [📂 Data Formats](#data-formats)
-- [📈 R Programming](#r-programming)
-- [📦 Additional Topics](#additional-topics)
-- [🧠 Introduction to Deep Learning](#introduction-to-deep-learning)
+- [🚀 Kafka](#-kafka)
+- [🐍 Python for Data Engineering](#-python-for-data-engineering)
+- [☕ Java Fundamentals and OOP](#-java-fundamentals-and-oop)
+- [📊 Big Data Technologies](#-big-data-technologies)
+- [📂 Data Formats](#-data-formats)
+- [📈 R Programming](#-r-programming)
+- [📦 Additional Topics](#-additional-topics)
+- [🧠 Introduction to Deep Learning](#-introduction-to-deep-learning)
 
 ---
 
@@ -162,4 +162,3 @@ This section includes free introductory resources on deep learning for students 
 Feel free to explore the resources, suggest new topics, or contribute additional links! This repository is meant to be a growing resource for anyone interested in learning about data engineering and foundational concepts in machine learning.
 
 ---
-
