@@ -4,7 +4,7 @@ Rate limiting and throttling are techniques used to control the number of reques
 
 ## Learning Resources
 - [Rate Limiting Explained](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/)
-- [Rate Limiting & Throttling - YouTube](https://www.youtube.com/watch?v=3pYjOPb0c7I)
+- [Rate Limiting & Throttling - YouTube](https://www.youtube.com/watch?v=9CIjoWPwAhU)
 
 ⬅️ [Back to REST API Design Overview](../../README.md#-rest-api-design)
 
