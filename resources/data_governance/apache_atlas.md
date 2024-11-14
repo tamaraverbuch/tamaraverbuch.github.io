@@ -4,7 +4,7 @@ Apache Atlas is an open-source data governance and metadata management tool for 
 
 ## Learning Resources
 - [Apache Atlas Documentation](https://atlas.apache.org/)
-- [Introduction to Apache Atlas - YouTube](https://www.youtube.com/watch?v=JrbZmAxt4Kw)
+- [Introduction to Apache Atlas - YouTube](https://www.youtube.com/watch?v=bzvLTqVMHf8)
 
 ⬅️ [Back to Data Governance & Lineage Overview](../../README.md#-data-governance--lineage)
 
