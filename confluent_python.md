@@ -10,6 +10,12 @@ Install the client with the following command:
 
 pip install confluent-kafka
 
+## Learning Resources
+
+- **[Confluent Python Client Documentation](https://docs.confluent.io/clients-confluent-kafka-python/current/overview.html)**: Official documentation for Confluent’s Python client.
+- **[Introduction to Confluent Kafka in Python - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1odVnZC430071CVD_4Sx1e)**: Video tutorials on using Confluent Kafka in Python.
+
+
 ## Example Code
 Here's how to use Confluent's Python client to produce a message:
 
@@ -31,11 +37,6 @@ def delivery_report(err, msg):
 producer.produce('test-topic', key='key', value='Hello, Confluent!', callback=delivery_report)
 producer.flush()
 
-## Learning Resources
 
-- **[Confluent Python Client Documentation](https://docs.confluent.io/clients-confluent-kafka-python/current/overview.html)**: Official documentation for Confluent’s Python client.
-- **[Introduction to Confluent Kafka in Python - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1odVnZC430071CVD_4Sx1e)**: Video tutorials on using Confluent Kafka in Python.
-
-[Back to Kafka Overview](README.md#kafka)
 
 
