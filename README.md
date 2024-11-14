@@ -2,7 +2,7 @@
 
 This repository provides resources to learn data engineering, focusing on key tools, languages, and frameworks. It includes topics on data pipelines, storage, transformation, querying, governance, security, and more, organized to support both beginner and intermediate learners in data engineering.
 
-**About This Repository**: This collection of resources serves as a structured guide to mastering data engineering and foundational concepts. Ideal for students and professionals who want to build a strong technical base, this repository is regularly updated with links to relevant courses, articles, and documentation.
+**About This Repository**: This collection of resources serves as a structured guide to learning data engineering and foundational concepts. Ideal for students and professionals who want to build a strong technical base, this repository is regularly updated with links to relevant courses, articles, and documentation.
 
 ---
 
