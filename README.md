@@ -31,9 +31,9 @@ Comprehensive resources on Apache Kafka, a distributed streaming platform used f
 ## 🐍 Python for Data Engineering
 Python libraries and frameworks essential for data engineering, focusing on data manipulation, asynchronous processing, and REST APIs.
 
-- [Pandas for Data Engineering](resources/python/pandas_for_de.md): Using Pandas for data manipulation in data engineering.
+- [Pandas for Data Engineering](resources/python/pandas_for_data_engineering.md): Using Pandas for data manipulation in data engineering.
 - [Asyncio](resources/python/asyncio.md): Asynchronous programming with asyncio.
-- [FastAPI (REST API)](resources/python/fastapi_restapi.md): Building fast REST APIs with FastAPI.
+- [FastAPI (REST API)](resources/python/fastapi.md): Building fast REST APIs with FastAPI.
 - [My First API](resources/python/my_first_api.md): Setting up a basic API that accepts POST requests and sends data to Kafka topics.
 
 ---
