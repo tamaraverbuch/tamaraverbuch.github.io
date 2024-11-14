@@ -4,7 +4,7 @@ Access control is a security technique used to regulate who or what can view or 
 
 ## Learning Resources
 - [Access Control Basics](https://www.varonis.com/blog/what-is-access-control)
-- [Role-Based Access Control (RBAC) - YouTube](https://www.youtube.com/watch?v=GIdyM-ffP1I)
+- [Role-Based Access Control (RBAC) - YouTube](https://www.youtube.com/watch?v=rvZ35YW4t5k)
 
 ⬅️ [Back to Data Security & Compliance Overview](../../README.md#-data-security--compliance)
 
