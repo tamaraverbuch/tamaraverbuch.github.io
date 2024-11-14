@@ -4,7 +4,7 @@ Apache Zookeeper is an open-source distributed coordination service that helps m
 
 ## Learning Resources
 - [Zookeeper Documentation](https://zookeeper.apache.org/doc/current/)
-- [Introduction to Zookeeper - YouTube](https://www.youtube.com/watch?v=2ZyXRnbI-8Q)
+- [Introduction to Zookeeper - YouTube](https://www.youtube.com/watch?v=gXJMiDaLIP8&list=PL1F54YqZCTdx4JmaKY99bb9hoD5gHS9bm)
 
 ⬅️ [Back to Distributed Systems & Scalability Overview](../../README.md#-distributed-systems--scalability)
 
