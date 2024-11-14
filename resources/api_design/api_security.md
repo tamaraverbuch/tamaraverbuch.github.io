@@ -4,7 +4,7 @@ API Security refers to the practices and tools used to protect APIs from vulnera
 
 ## Learning Resources
 - [API Security Best Practices](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
-- [API Security Basics - YouTube](https://www.youtube.com/watch?v=jfiipYaG02M)
+- [API Security Basics - YouTube](https://www.youtube.com/watch?v=4TQ_c72ffE4)
 
 ⬅️ [Back to REST API Design Overview](../../README.md#-rest-api-design)
 
