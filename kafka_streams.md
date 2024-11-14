@@ -12,6 +12,6 @@ Kafka Streams is a client library for building real-time streaming applications 
 
 ## Learning Resources
 - [Kafka Streams Documentation](https://kafka.apache.org/documentation/streams/)
-- [Kafka Streams in Action - YouTube](https://www.youtube.com/watch?v=VV5AVUMeKXI)
+- [Kafka Streams Tutorial - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s)
 
 [Back to Kafka Overview](README.md#kafka)
