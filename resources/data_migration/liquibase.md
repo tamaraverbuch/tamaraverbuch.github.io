@@ -4,7 +4,7 @@ Liquibase is an open-source tool for database schema change management, allowing
 
 ## Learning Resources
 - [Liquibase Documentation](https://www.liquibase.org/documentation)
-- [Introduction to Liquibase - YouTube](https://www.youtube.com/watch?v=EnphdKlB3oo)
+- [Introduction to Liquibase - YouTube](https://www.youtube.com/watch?v=WPAKj0ygul0&list=PL8LikImwls6IM8Ks9CvpnU4UbcBCJUd3C)
 
 ⬅️ [Back to Data Migration & Versioning Overview](../../README.md#-data-migration--versioning)
 
