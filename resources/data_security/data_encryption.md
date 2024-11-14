@@ -4,7 +4,7 @@ Data encryption is the process of converting data into a coded format to prevent
 
 ## Learning Resources
 - [Introduction to Data Encryption](https://www.cloudflare.com/learning/ssl/what-is-encryption/)
-- [Encryption Basics - YouTube](https://www.youtube.com/watch?v=CyxFW3p8jcE)
+- [Encryption Basics - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ&t=395s)
 
 ⬅️ [Back to Data Security & Compliance Overview](../../README.md#-data-security--compliance)
 
