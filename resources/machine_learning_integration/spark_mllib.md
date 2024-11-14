@@ -4,7 +4,7 @@ Spark MLlib is the machine learning library of Apache Spark, offering scalable m
 
 ## Learning Resources
 - [Spark MLlib Documentation](https://spark.apache.org/mllib/)
-- [Getting Started with Spark MLlib - YouTube](https://www.youtube.com/watch?v=YkM6Wn3aD80)
+- [Getting Started with Spark MLlib - YouTube](https://www.youtube.com/watch?v=iM6GVmCK6iQ)
 
 ⬅️ [Back to Machine Learning Integration Overview](../../README.md#-machine-learning-integration)
 
