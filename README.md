@@ -156,9 +156,8 @@ Using R for data manipulation and analytics in data engineering.
 - [Event Sourcing](resources/design_patterns/event_sourcing.md)
 
 ---
-
 ## 🧠 Introduction to Deep Learning
-This section includes free introductory resources on deep learning for students interested in foundational concepts.
+This section includes some free introductory resources on deep learning for students interested in foundational concepts (recommended!!).
 
 - **YouTube Playlist: Deep Learning for Beginners** - [YouTube: deeplearning.ai](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 - **Stanford CS231n: Convolutional Neural Networks for Visual Recognition** - [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): Comprehensive course on CNNs.
@@ -166,9 +165,9 @@ This section includes free introductory resources on deep learning for students 
 - **Introduction to ONNX (Open Neural Network Exchange)** - [ONNX Website](https://onnx.ai/): Learn about using ONNX for cross-framework compatibility.
 - **Model Optimization Techniques**: [Google Colab Notebooks on Quantization and Pruning](https://colab.research.google.com/): Tutorials on model compression methods.
 - **Fast.ai’s Practical Deep Learning for Coders** - [Fast.ai](https://course.fast.ai/): Hands-on course designed for beginners, covering practical applications of deep learning.
+- **Neural Networks - 3Blue1Brown** - [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Engaging visual explanations of neural networks, perfect for beginners.
+- **Book by Michael Nielsen** - [Neural Networks and Deep Learning](https://goo.gl/Zmczdy): A free book introducing neural networks through hands-on coding examples. The book is designed to be accessible and covers the same example as the 3Blue1Brown video series. The associated code and data are available on [GitHub](https://github.com/mnielsen/neural-networks-and-deep-learning).
+- **Neural Networks - Chris Olah's Blog** - [colah.github.io](http://colah.github.io/): A collection of insightful posts that demystify neural network concepts through visual explanations.
+- **Learning To See series by Welch Labs** - [YouTube](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV): A comprehensive series on how neural networks learn and process visual data.
+- **Neural Networks Demystified series by Welch Labs** - [YouTube](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU): A step-by-step introduction to neural networks, making complex topics easier to understand.
 
----
-
-Feel free to explore the resources, suggest new topics, or contribute additional links! This repository is meant to be a growing resource for anyone interested in learning about data engineering and foundational concepts in machine learning.
-
----
