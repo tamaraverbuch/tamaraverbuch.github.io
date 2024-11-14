@@ -42,9 +42,9 @@ Python libraries and frameworks essential for data engineering, focusing on data
 Core concepts in Java programming, including fundamentals, object-oriented programming, logging, and handling geometry data.
 
 - [Java Fundamentals](resources/java/java_fundamentals.md): Basic Java concepts and OOP principles.
-- [Log4j2](resources/java/log4j2.md): Logging with Log4j2, including JSON-formatted logs.
-- [Customized JSON Logs in Java](resources/java/json_logs.md): Customizing JSON logs in Java applications.
-- [Polygons and Geometry](resources/java/polygons_geometry.md): Working with polygons and geometric data in Java, including WKT formats.
+- [Log4j2](resources/java/log4j2_logging.md): Logging with Log4j2, including JSON-formatted logs.
+- [Customized JSON Logs in Java](resources/java/customized_json_logs.md): Customizing JSON logs in Java applications.
+- [Polygons and Geometry](resources/java/polygons_and_geometry.md): Working with polygons and geometric data in Java, including WKT formats.
 
 ---
 
