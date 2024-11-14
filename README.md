@@ -56,12 +56,11 @@ Tools and frameworks for processing and managing large datasets efficiently.
 - [Linux Basics](resources/big_data/linux_basics.md): Essential Linux commands and scripts for data engineers.
 
 ---
-
 ## 📂 Data Formats
 Understanding and working with various data formats and compression techniques.
 
-- [JSON and Binary Formats](resources/data_formats/json_and_binary_formats.md): Overview of JSON, MessagePack, Protobuf, and Thrift.
-- [WKT Geometry Formats](resources/data_formats/WKT_geometry.md): Using WKT formats for geometric data representation.
+- [JSON and Binary Formats](resources/data_formats/json_binary_formats.md): Overview of JSON, MessagePack, Protobuf, and Thrift.
+- [WKT Geometry Formats](resources/data_formats/wkt_geometry_formats.md): Using WKT formats for geometric data representation.
 - [Compression Techniques](resources/data_formats/compression_techniques.md): Techniques for data compression, including GZIP, Snappy, and LZ4.
 
 ---
