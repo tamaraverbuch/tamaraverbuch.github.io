@@ -1,4 +1,4 @@
-# 🎉 tamaraverbuch.github.io
+# 🎉 My Awesome Data Engineering Resources
 
 This repository provides resources to learn data engineering, focusing on key tools, languages, and frameworks. It includes topics on data pipelines, storage, transformation, querying, governance, security, and more, organized to support both beginner and intermediate learners in data engineering.
 
@@ -7,6 +7,7 @@ This repository provides resources to learn data engineering, focusing on key to
 ---
 
 ## 📚 Table of Contents
+- [📘 E-books](#-e-books)
 - [🚀 Kafka](#-kafka)
 - [🐍 Python for Data Engineering](#-python-for-data-engineering)
 - [☕ Java Fundamentals and OOP](#-java-fundamentals-and-oop)
@@ -15,6 +16,16 @@ This repository provides resources to learn data engineering, focusing on key to
 - [📈 R Programming](#-r-programming)
 - [📦 Additional Topics](#-additional-topics)
 - [🧠 Introduction to Deep Learning](#-introduction-to-deep-learning)
+
+---
+
+## 📘 E-books
+
+A selection of e-books to deepen your understanding of data engineering.
+
+- **[The Essential Guide to Data Engineering](https://snowflake.hub.hushly.com/data-engineering-stream/the-essential-guide-to-data-engineering?hly_src_id=1025909e-1966-4798-a91e-83b9fbd2d47f&hly_src_type=EmbedStream)**: A comprehensive resource for anyone beginning or enhancing their data engineering journey.
+
+- **[Cloud Data Engineering for Dummies](https://snowflake.hub.hushly.com/data-engineering-stream/cloud-data-engineering-for-dummies?hly_src_id=1025909e-1966-4798-a91e-83b9fbd2d47f&hly_src_type=EmbedStream)**: A beginner-friendly guide to cloud-based data engineering essentials.
 
 ---
 
