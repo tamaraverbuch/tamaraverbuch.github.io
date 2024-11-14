@@ -23,7 +23,7 @@ Comprehensive resources on Apache Kafka, a distributed streaming platform used f
 
 - [Kafka Basics](resources/kafka/kafka_basics.md): Introduction to Kafka, its architecture, and key components.
 - [Kafka Streams](resources/kafka/kafka_streams.md): Stream processing with Kafka Streams API.
-- [Kafka Producer/Consumer](resources/kafka/producer_consumer.md): Overview of producing and consuming messages in Kafka.
+- [Kafka Producer/Consumer](resources/kafka/kafka_producer_consumer.md): Overview of producing and consuming messages in Kafka.
 - [Confluent in Python](resources/kafka/confluent_python.md): Using Confluent’s Python client for Kafka.
 
 ---
