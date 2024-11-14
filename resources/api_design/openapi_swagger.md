@@ -4,7 +4,7 @@ Swagger and OpenAPI are popular frameworks for designing, building, and document
 
 ## Learning Resources
 - [OpenAPI Specification](https://swagger.io/specification/)
-- [Introduction to Swagger/OpenAPI - YouTube](https://www.youtube.com/watch?v=hoC6GUVa8UI)
+- [Introduction to Swagger/OpenAPI - YouTube](https://www.youtube.com/watch?v=7LQrTQTS_R0)
 
 ⬅️ [Back to REST API Design Overview](../../README.md#-rest-api-design)
 
