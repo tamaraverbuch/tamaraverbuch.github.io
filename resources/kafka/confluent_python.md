@@ -37,10 +37,3 @@ def delivery_report(err, msg):
 # Produce a message
 producer.produce('test-topic', key='key', value='Hello, Confluent!', callback=delivery_report)
 producer.flush()
-
-
-
-
-
-
-
