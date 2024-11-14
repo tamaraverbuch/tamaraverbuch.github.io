@@ -68,14 +68,6 @@ Using R for data manipulation and analytics in data engineering.
 
 ---
 
-## Drones Information
-Resources on drones, including APIs, general knowledge, and geometric data handling for drones.
-
-- [Drones API Information](resources/drones/drones_api_info.md): API resources for working with drone data.
-- [General Drones Information](resources/drones/general_info.md): General information and resources on drones and their applications.
-
----
-
 ## Additional Topics
 
 ### Data Pipelines & Workflow Orchestration
