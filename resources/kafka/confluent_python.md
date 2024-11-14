@@ -37,7 +37,7 @@ def delivery_report(err, msg):
 producer.produce('test-topic', key='key', value='Hello, Confluent!', callback=delivery_report)
 producer.flush()
 
-[🔙 Back to Kafka Overview](../../README.md#-kafka)
+## [🔙 Back to Kafka Overview](../../README.md#-kafka)
 
 
 
