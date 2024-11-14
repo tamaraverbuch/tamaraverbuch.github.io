@@ -5,7 +5,7 @@ Data privacy compliance involves adhering to regulations like GDPR and CCPA, whi
 ## Learning Resources
 - [GDPR Compliance Overview](https://gdpr.eu/)
 - [CCPA Compliance Overview](https://oag.ca.gov/privacy/ccpa)
-- [Data Privacy Compliance - YouTube](https://www.youtube.com/watch?v=6Iv8PoOFDTg)
+- [Data Privacy Compliance - YouTube](https://www.youtube.com/watch?v=UiQ6BO_OG-M)
 
 ⬅️ [Back to Data Security & Compliance Overview](../../README.md#-data-security--compliance)
 
