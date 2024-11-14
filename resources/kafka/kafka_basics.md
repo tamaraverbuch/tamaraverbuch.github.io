@@ -16,4 +16,6 @@ Kafka is a distributed event streaming platform capable of handling trillions of
 - [Confluent's Free Kafka Course](https://www.confluent.io/resources/training/)
 - [Introduction to Apache Kafka - YouTube](https://www.youtube.com/watch?v=9U4_XN8a1Aw)
 
-[Back to Kafka Overview](../../README.md#kafka)
+[🔙 Back to Kafka Overview](../../README.md#-kafka)
+
+
