@@ -4,7 +4,7 @@ Flyway is an open-source database migration tool that automates version control 
 
 ## Learning Resources
 - [Flyway Documentation](https://flywaydb.org/documentation/)
-- [Getting Started with Flyway - YouTube](https://www.youtube.com/watch?v=JxQOICl75Ko)
+- [Getting Started with Flyway - YouTube](https://www.youtube.com/watch?v=dJDBP7pPA-o)
 
 ⬅️ [Back to Data Migration & Versioning Overview](../../README.md#-data-migration--versioning)
 
