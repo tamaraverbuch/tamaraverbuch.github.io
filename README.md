@@ -21,7 +21,7 @@ This repository provides resources to learn data engineering, focusing on key to
 
 ## 📘 E-books
 
-A selection of e-books to deepen your understanding of data engineering.
+A selection of e-books to deepen understanding of data engineering.
 
 - **[The Essential Guide to Data Engineering](https://snowflake.hub.hushly.com/data-engineering-stream/the-essential-guide-to-data-engineering?hly_src_id=1025909e-1966-4798-a91e-83b9fbd2d47f&hly_src_type=EmbedStream)**: A comprehensive resource for anyone beginning or enhancing their data engineering journey.
 
