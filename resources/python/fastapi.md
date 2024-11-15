@@ -19,7 +19,7 @@ FastAPI is a modern, fast (high-performance) web framework for building APIs wit
 
 
 ## Example Code
-Here's a basic example of creating a FastAPI app:
+Creating a FastAPI app:
 
 ```python
 from fastapi import FastAPI
