@@ -17,7 +17,7 @@ Consumers read data from Kafka topics. Consumers in the same group share the wor
 [🔙 Back to Kafka Overview](../../README.md#-kafka)
 
 ## Example Code
-Here’s an example of a Kafka producer written in Python:
+Kafka producer in Python:
 
 ```python
 from kafka import KafkaProducer
