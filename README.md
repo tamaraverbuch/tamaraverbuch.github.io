@@ -1,6 +1,6 @@
 # 🎉 My Awesome Data Engineering Resources
 
-Hey! I'm a third-year computer science student exploring data engineering, algorithms, and dipping my toes into deep learning. I’m building this GitHub repo to share resources that make data engineering a bit easier to navigate, learn, and even enjoy! 
+Hey! I'm Tamar :) A third-year computer science student exploring data engineering, algorithms, and dipping my toes into deep learning. I’m building this GitHub repo to share resources that make data engineering a bit easier to navigate, learn, and even enjoy! 
 
 This repository covers essential tools, languages, and frameworks you’ll need for working with data pipelines, storage, transformation, querying, governance, security, and more. It’s organized to help both beginners and those with some experience level up their data engineering skills. I hope it becomes a handy reference for anyone eager to learn!
 
