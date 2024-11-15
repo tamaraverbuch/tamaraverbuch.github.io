@@ -18,7 +18,7 @@ Pandas is a powerful Python library for data manipulation and analysis. It provi
 ⬅️ [Back to Python Overview](../../README.md#-python-for-data-engineering)
 
 ## Example Code
-Here's an example of reading a CSV and performing a basic data manipulation:
+Reading a CSV and performing a basic data manipulation:
 
 ```python
 import pandas as pd
