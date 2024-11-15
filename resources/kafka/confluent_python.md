@@ -18,7 +18,7 @@ pip install confluent-kafka
 [🔙 Back to Kafka Overview](../../README.md#-kafka)
 
 ## Example Code
-Here's how to use Confluent's Python client to produce a message:
+Using Confluent's Python client to produce a message:
 
 ```python
 from confluent_kafka import Producer
