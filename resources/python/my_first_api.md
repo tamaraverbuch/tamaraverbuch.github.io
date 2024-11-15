@@ -14,7 +14,7 @@ This example demonstrates how to set up a simple API using FastAPI that accepts 
 
 
 ## Example Code
-Below is an example of creating an API endpoint that processes POST requests:
+Creating an API endpoint that processes POST requests:
 
 ```python
 from fastapi import FastAPI
