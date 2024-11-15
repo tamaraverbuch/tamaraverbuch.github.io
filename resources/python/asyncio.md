@@ -19,7 +19,7 @@ Asyncio is a Python library used for asynchronous programming. It allows you to 
 
 
 ## Example Code
-Here's an example of using asyncio to run tasks concurrently:
+Using asyncio to run tasks concurrently:
 
 ```python
 import asyncio
